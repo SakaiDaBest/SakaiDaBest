@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wong Wei Jun! <br/><a href="https://github.com/SakaiDaBest">Programmer</a>, <a href="https://www.linkedin.com/in/">Upcoming Student at University of Wolonggong Malaysia</a>
+<h1>Hi, I'm Wong Wei Jun! <br/><a href="https://github.com/SakaiDaBest">Programmer</a>, <a href="https://www.linkedin.com/in/"></a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -9,7 +9,7 @@
 
 - <b>Python</b>
   - [Electricity Expense Calculator Website](https://github.com/SakaiDaBest/WattSaver)
-  - [Spotify To MP3 through Youtube](https://github.com/SakaiDaBest/SpotifyToMP3-Youtube-)
+  - [YouTube Liked Videos to MP3](https://github.com/SakaiDaBest/YouTubeLikedVidsToMP3)
 
 
 <h2> 🤳 Connect with me:</h2>
