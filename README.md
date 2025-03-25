@@ -4,7 +4,7 @@
 
 - <b>C++</b>
   - [Pong Game in SFML](https://github.com/SakaiDaBest/Pong-Game/)
-  - [Password Manager (SQLite/AES/SHA](https://github.com/SakaiDaBest/Password-Manager)
+  - [Password Manager (SQLite/AES/SHA](https://github.com/SakaiDaBest/Password-Manager))
 
 - <b>Java</b>
 
