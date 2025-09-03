@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wong Wei Jun! <br/><a href="https://github.com/SakaiDaBest">Programmer</a>, <a href="https://www.linkedin.com/in/"></a>
+<h1>Hi, I'm Wong Wei Jun! <br/><a href="https://github.com/SakaiDaBest">Student at University of Wollongong Malaysia</a>, <a href="https://www.linkedin.com/in/"></a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
