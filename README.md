@@ -1,12 +1,10 @@
 <h1>Hi, I'm Wong Wei Jun! <br/><a href="https://github.com/SakaiDaBest">Student at University of Wollongong Malaysia</a>, <a href="https://www.linkedin.com/in/"></a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 NotableSoftware Development Projects:</h2>
 
 - <b>C++</b>
   - [Pong Game in SFML](https://github.com/SakaiDaBest/Pong-Game/)
   - [Password Manager (SQLite/AES/SHA)](https://github.com/SakaiDaBest/Password-Manager)
-
-- <b>Java</b>
 
 - <b>Python</b>
   - [Electricity Expense Calculator Website](https://github.com/SakaiDaBest/WattSaver)
