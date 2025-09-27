@@ -10,6 +10,8 @@
   - [Electricity Expense Calculator Website](https://github.com/SakaiDaBest/WattSaver)
   - [YouTube Liked Videos to MP3](https://github.com/SakaiDaBest/YouTubeLikedVidsToMP3)
 
+- <b>Built during Hackathons</b>
+  - [Fake News Detector](https://github.com/SakaiDaBest/WattSaver)
 
 <h2> 🤳 Connect with me:</h2>
 
