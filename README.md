@@ -11,7 +11,7 @@
   - [YouTube Liked Videos to MP3](https://github.com/SakaiDaBest/YouTubeLikedVidsToMP3)
 
 - <b>Built during Hackathons</b>
-  - [Fake News Detector](https://github.com/SakaiDaBest/WattSaver)
+  - [Fake News Detector](https://github.com/SakaiDaBest/GreatAIHackathon)
 
 <h2> 🤳 Connect with me:</h2>
 
