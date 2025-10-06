@@ -15,7 +15,7 @@
   - 
 - <b>University Projects</b>
   - [Password Manager GUI](https://github.com/SakaiDaBest/Password-Manager-with-GUI)
-  - [Bakery Management System]
+  - [Bakery Management System](https://github.com/SakaiDaBest/BakeryManagementSystem)
 
 <h2> 🤳 Connect with me:</h2>
 
