@@ -12,7 +12,7 @@
 
 - <b>Built during Hackathons</b>
   - [Fake News Detector](https://github.com/SakaiDaBest/GreatAIHackathon)
-  - 
+    
 - <b>University Projects</b>
   - [Password Manager GUI](https://github.com/SakaiDaBest/Password-Manager-with-GUI)
   - [Bakery Management System](https://github.com/SakaiDaBest/BakeryManagementSystem)
